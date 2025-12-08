@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25cd3bebf62ca3d46884427dd4b7ce1c, type: 3}
+  m_Name: LevelConfiguration
+  m_EditorClassIdentifier: 
+  Width: 8
+  Height: 8
+  MoveLimit: 10
+  TargetScore: 20
+  CellSize: 1
+  MinMatchCount: 3
+  ScorePerGem: 1
